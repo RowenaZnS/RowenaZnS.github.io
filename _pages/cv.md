@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Artificial Intelligence and Information Engineering (Minor in Applied Mathematics), The Hong Kong Polytechnic University, 2022-2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 6/2025 - 8/2025: Project Intern
+    * University of Toronto, Toronto, Canada
+    * **Developing methodologies for AI/ML-driven curriculum design and enhancement.**
+    * Funded by [MITACS Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 4/2025 - Present: Research Assistant
+    * The Hong Kong University of Science and Technology, Hong Kong
+    * **Researching Large Language Model (LLM) embeddings.**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 7/2024 - 8/2024: Research Intern
+    * Institute of Automation, Chinese Academy of Sciences, Beijing, China
+    * **Developed algorithms for Reinforcement Learning in Autonomous Driving systems.**
+    * Funded by [the Home and Youth Affairs Bureau, HKSAR Government, and Chinese Academy of Sciences](https://ia.cas.cn/kxcb/kpdt/202407/t20240709_7214393.html)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 6/2025 - Present: Volunteer, Toronto Language Exchange Group
+* 1/2025 - 6/2025: Active Member, Erasmus Student Network (ESN)
+* 10/2024: Volunteer, College of Undergraduate Researcher and Innovator Booth at Alumni Day, HK PolyU
+* 9/2024 - Present: Volunteer, HandsOn Hong Kong
+* 8/2024: Volunteer, College of Undergraduate Researcher and Innovator Booth at Orientation Day, HK PolyU
+* 8/2024: Lead Volunteer, Incoming Exchange Students Welcome, HK PolyU
+* 8/2024: Volunteer, EEE Department Inaugural Dinner, HK PolyU
+* 5/2024: Volunteer, Nanyang Technological University Student Visit, HK PolyU
+* 5/2023-9/2023, 5/2024-9/2024: Non-Local Group Leader for Incoming Freshman/Exchange Students, HK PolyU
+* 4/2023: Student Representative, Student-Staff Consultation Meeting for ELC1012/1013 Courses, HK PolyU
+
+Projects
+=====
+**Intelligent Occupancy Management System**
+* **Project Dates:** June - July 2024
+* **Organization:** [Young Professionals Exhibition & Competition, The Institution of Engineering and Technology Hong Kong (IET HK)](https://drive.google.com/file/d/1KHZh_ZEpKM_Y_KPKA0Txr32LJzPVLle6/view?usp=drive_link)
+* **Description:** Engineered an **AI-driven intelligent occupancy management system** to optimize resource allocation and enhance user experience with predictive seat recommendations.
+* **Awards:** My Favourite Pitching Award; EEE Microcontroller Application Design Competition: Second Runner-Up
+
+**Mol Finance: Fintech Startup**
+* **Project Dates:** January 2025 - Present
+* **Role:** Entrepreneurship
+* **Description:** Architecting a **hybrid investment model** and developing **AI/ML algorithms** for portfolio optimization, real-time risk assessment, and predictive analytics in complex financial markets.
+
+  
+  

@@ -54,6 +54,34 @@ Projects
 * **Project Dates:** January 2025 - Present
 * **Role:** Entrepreneurship
 * **Description:** Architecting a **hybrid investment model** and developing **AI/ML algorithms** for portfolio optimization, real-time risk assessment, and predictive analytics in complex financial markets.
+  
 
+Awards/Scholarships/Funding
+=====
+**Academic & Research**
+* HKSAR Government Scholarship 2024/25
+* President Emeritus Professor Poon Chung-kwong Scholarship 2024/25
+* SINOPEC "Cleaner Energy Better Life" Scholarship 2024/25
+* The Hong Kong Polytechnic University Scholarship 2023/2024
+* HKSAR Government Scholarship - Talent Development Scholarship 2022/2023 & 2023/2024
+* The Professional Validation Council of Hong Kong Industries Scholarship
+* Dean's List 2022/2023, 2023/2024
+* Undergraduate Research and Innovation Scholarship
+* Dunn Wing Tim Memorial Scholarship
+**Leadership**
+* Presidential Student Leadership Award of Faculty / School 2024
+* Presidential Student Leadership Award of the Department 2024
+**Exchange Abroad**
+* Wong Tit-shing Student Exchange Scholarship 2024/25
+* HKSAR Government Scholarship - Reaching Out Award 2023/2024
+* Non-Local Student Fund 2024/2025
+* MITACS Globalink Research Internship Funding
+* GEO Scholarship for Student Exchange
+* Summer@Oxbidge Tier 1 Subsidy
+**Extra-Curricular**
+* My Favourite Pitching Award, Young Professionals Exhibition & Competition 2024, The Institution of Engineering and Technology Hong Kong (IET HK)
+* Second Runner-Up, EEE Microcontroller Application Design Competition 2024
+* HKSAR Government Scholarship - Talent Development Scholarship 2022/2023 & 2023/2024
+  
   
   

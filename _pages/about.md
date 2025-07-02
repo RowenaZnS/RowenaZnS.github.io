@@ -17,4 +17,4 @@ My interests extend beyond academia. I'm an avid and organized traveler, having 
 
 Should you find my profile of interest or wish to discuss potential collaborations, please don't hesitate to contact me.
 
-[Email](mailto:rowena.liu@connect.polyu.hk) / [Github](https://github.com/RowenaZnS) / [Wechat](../images/wechat.jpg) / [LinkedIn](www.linkedin.com/in/rowena-liu-553bb0278)
+[Email](mailto:rowena.liu@connect.polyu.hk) / [Github](https://github.com/RowenaZnS) / [Wechat](../images/wechat.jpg) / [LinkedIn](https://www.linkedin.com/in/rowena-liu-553bb0278)

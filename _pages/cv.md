@@ -68,9 +68,11 @@ Awards/Scholarships/Funding
 * Dean's List 2022/2023, 2023/2024
 * Undergraduate Research and Innovation Scholarship
 * Dunn Wing Tim Memorial Scholarship
+  
 **Leadership**
 * Presidential Student Leadership Award of Faculty / School 2024
 * Presidential Student Leadership Award of the Department 2024
+  
 **Exchange Abroad**
 * Wong Tit-shing Student Exchange Scholarship 2024/25
 * HKSAR Government Scholarship - Reaching Out Award 2023/2024
@@ -78,6 +80,7 @@ Awards/Scholarships/Funding
 * MITACS Globalink Research Internship Funding
 * GEO Scholarship for Student Exchange
 * Summer@Oxbidge Tier 1 Subsidy
+  
 **Extra-Curricular**
 * My Favourite Pitching Award, Young Professionals Exhibition & Competition 2024, The Institution of Engineering and Technology Hong Kong (IET HK)
 * Second Runner-Up, EEE Microcontroller Application Design Competition 2024
